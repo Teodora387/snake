@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1585581028 source:c:\teo\info\snakec\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<ctype.h>
+	<time.h>
+	<windows.h>
+	<process.h>
+	<unistd.h>
+
